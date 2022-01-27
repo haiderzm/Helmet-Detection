@@ -10,3 +10,9 @@
 #### 5. Testing on the given videos
 #### 6. Saving the results
 
+
+
+## Data gathering
+
+#### The images for training the deeplearning model are gathered from repositories github.com (0816-Radhu/helmet_detection_using_machine_learning) and some random images of traffic containing bikers from websites like wired.com, bbc.com and youtube.com
+
