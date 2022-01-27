@@ -32,3 +32,11 @@
 
 #### Model is trained/fine-tuned using the free-gpu provided by google colaboratory on the custom helmet detection dataset for 350 epochs. The library used is PyTorch.
 #### Link to the model :- (https://drive.google.com/file/d/1M5MAgENH1y7DgzISWVKkx_QklMGfB3-l/view)
+
+
+## Testing on videos
+#### The model was tested on 2 youtube videos link to the original videos are :- 
+####  https://www.youtube.com/watch?v=9WNzIDEcNP4 (Bike racing | royalty free video | no copyright | use in your project #racing #bikes - YouTube)
+####  https://www.youtube.com/watch?v=iEIk3RpV6RA (CRAZY INDIAN TRAFFIC CONGESTION - YouTube)
+#### Link to the results of detection :-
+#### https://drive.google.com/file/d/1SulGjFbL7O5Wyb1HJXcyKm87d8hOWuan/view (Detection of Bike racing)
