@@ -8,7 +8,6 @@
 #### 3. Model/Algorithm Selection
 #### 4. Fine-Tunning the model for helmet detection
 #### 5. Testing on the given videos
-#### 6. Saving the results
 
 
 ## Data gathering
