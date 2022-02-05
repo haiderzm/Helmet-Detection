@@ -1,5 +1,5 @@
 # Helmet-Detection
-### Task :- Train object detection model to identify and count helmets from video.
+### Task :- Train object detection and tracking model to identify and count helmets from video.
 
 
 ## Steps Involved :-
