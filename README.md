@@ -21,11 +21,14 @@
 #### Link to my labelled data (https://drive.google.com/drive/u/1/folders/1azB-EBLXyyAJRi4XGcF3aEemr2xjNfM6)
 
 
-## Model/Algorithm Selection
+## Model/Algorithm Selection(Object-Detection)
 
 #### Model used for the task is ultralytics implementation of yolo-v5 model in PyTorch (https://github.com/ultralytics/yolov5) 
 #### YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents Ultralytics open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 
+## Model/Algorithm Selection(Onject-Tracking)
+
+#### Model used for tracking is DeepSort on yolo v5 base detection, Repository used (https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
 
 ## Fine-Tunning the model for helmet detection
 
@@ -38,5 +41,5 @@
 ####  https://www.youtube.com/watch?v=9WNzIDEcNP4 (Bike racing | royalty free video | no copyright | use in your project #racing #bikes - YouTube)
 ####  https://www.youtube.com/watch?v=iEIk3RpV6RA (CRAZY INDIAN TRAFFIC CONGESTION - YouTube)
 #### Link to the results of detection :-
-#### https://drive.google.com/file/d/1SulGjFbL7O5Wyb1HJXcyKm87d8hOWuan/view (Detection of Bike racing)
-#### https://drive.google.com/file/d/1cp4rUjF5vwHFWKkh3imOxIENPSnsgphw/view?usp=sharing (Detection of Crazy Indian Traffic)
+#### https://drive.google.com/file/d/1mK9z8aOzBd-aISPf4i_q-xwbbNxsLLwV/view?usp=sharing (Detection of Bike racing)
+#### https://drive.google.com/file/d/1WwKe5I9-J4RdzTq6Y79gpYUWhSz4Lj7U/view?usp=sharing (Detection of Crazy Indian Traffic)
