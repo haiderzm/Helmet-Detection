@@ -26,7 +26,7 @@
 #### Model used for the task is ultralytics implementation of yolo-v5 model in PyTorch (https://github.com/ultralytics/yolov5) 
 #### YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents Ultralytics open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 
-## Model/Algorithm Selection(Onject-Tracking)
+## Model/Algorithm Selection(Object-Tracking)
 
 #### Model used for tracking is DeepSort on yolo v5 base detection, Repository used (https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)
 
